@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=League+Spartan:wght@100..900&family=Manrope:wght@200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Hanken Grotesk;
+    background-color: hsl(221, 100%, 96%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#class {
+    border: none solid;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: row;
+}
+
+#s1 {
+    border: none solid;
+    border-radius: 25px;
+    background-color: hsl(241, 81%, 54%);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+#s11 {
+    border: none solid;
+    border-radius: 100px;
+    background-color: hsla(256, 72%, 46%, 1);
+    width: 140px;
+    height: 140px;
+    position: relative;
+    left: 40px;
+}
+
+#s111 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30px;
+    font-size: 50px;
+
+}
+
+#s112 {
+    color: hsl(241, 65%, 83%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30px;
+    font-size: small;
+}
+
+#s113 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 30px
+}
+
+#s114 {
+    color: hsl(241, 100%, 89%);
+    text-align: center;
+    padding-top: 20px;
+}
+
+#s115 {
+    color: hsl(241, 100%, 89%);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+    font-weight: 600;
+}
+
+#s2 {
+    padding: 40px;
+}
+
+#s20 {
+    padding-bottom: 20px;
+    position: relative;
+    bottom: 14px;
+}
+
+#s21 {
+    display: flex;
+    flex-direction: row;
+    border: none solid;
+    background-color: hsl(0, 100%, 97%);
+    border-radius: 10px;
+    padding: 12px;
+}
+
+#s22 {
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(39, 100%, 95%);
+    border-radius: 10px;
+    padding: 12px;
+}
+
+#s23 {
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(167, 100%, 95%);
+    border-radius: 10px;
+    padding: 12px;
+}
+
+#s24 {
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(235, 100%, 95%);
+    border-radius: 10px;
+    padding: 12px;
+}
+
+button {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: none;
+    background-color: hsl(240, 30%, 21%);
+    color: white;
+    border-radius: 20px;
+}
+
+span {
+    position: relative;
+    left: 20px;
+}
+
+.s2a {
+    color: hsl(224, 30%, 27%);
+    font-weight: bold;
+}

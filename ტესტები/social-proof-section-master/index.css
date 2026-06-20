@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(0, 0%, 100%);
+    font-family: League Spartan;
+}
+
+#class {
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 120px;
+    padding-bottom: 130px;
+}
+
+#class0 {
+    display: flex;
+    flex-direction: row;
+}
+
+.students {
+    color: hsl(300, 43%, 22%);
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.student {
+    color: rgb(149, 136, 146);
+    font-weight: normal;
+    font-size: 17px;
+}
+
+#class2 {
+    color: hsl(300, 43%, 22%);
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 370px;
+}
+
+#class21 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border: 1px solid hsl(303, 10%, 53%);
+    border-radius: 6px;
+    background-color: rgb(247, 242, 248);
+    border: none ;
+    padding: 20px;
+    padding-right: 60px;
+    padding-left: 30px;
+}
+#class22 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border: 1px solid hsl(303, 10%, 53%);
+    border-radius: 6px;
+    background-color: rgb(247, 242, 248);
+    border: none ;
+    padding: 20px;
+    padding-right: 60px;
+    padding-left: 30px;
+    position: relative;
+    left: 50px;
+}
+
+#class23 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border: 1px solid hsl(303, 10%, 53%);
+    border-radius: 6px;
+    background-color: rgb(247, 242, 248);
+    border: none ;
+    padding: 20px;
+    padding-right: 60px;
+    padding-left: 30px;
+    position: relative;
+    left: 100px;
+}
+
+#class01 {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+
+#student1 {
+    border: 1px solid hsl(300, 43%, 22%);
+    border-radius: 6px;
+    padding: 30px;
+    background-color: hsl(300, 43%, 22%);
+    width: 300px;
+}
+
+.portret {
+    border-radius: 100px;
+    width: 60px;
+}
+
+.name {
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    left: 23px;
+}
+
+.buyer {
+    color: hsl(333, 80%, 67%);
+    position: relative;
+    top: 20px;
+    right: 60px;
+}
+
+.name1 {
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    left: 80px;
+    bottom: 65px;
+}
+
+.buyer1 {
+    color: hsl(333, 80%, 67%);
+    position: relative;
+    left: 80px;
+    bottom: 60px;
+}
+
+.info {
+    color: hsl(300, 24%, 96%);
+}
+
+#student21 {
+    display: flex;
+    flex-direction: row;
+}
+
+#student2 {
+    border: 1px solid hsl(300, 43%, 22%);
+    border-radius: 6px;
+    padding: 30px;
+    background-color: hsl(300, 43%, 22%);
+    width: 300px;
+    position: relative;
+    top: 20px;
+}
+
+#student3 {
+    border: 1px solid hsl(300, 43%, 22%);
+    border-radius: 6px;
+    padding: 30px;
+    background-color: hsl(300, 43%, 22%);
+    width: 300px;
+    position: relative;
+    top: 40px;
+}
+
+#student22 {
+    display: flex;
+    flex-direction: row;
+}
+
+#student23 {
+    display: flex;
+    flex-direction: row;
+}

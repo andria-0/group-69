@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(7, 158, 229);
+}
+
+h1 {
+    color:rgb(0, 78, 114) ;font-family: Oswald;text-align: center;
+}
+
+h2 {
+    color:rgb(0, 78, 114);font-family: Oswald
+}
+
+h3 {
+    color:rgb(0, 78, 114);font-family: Oswald
+}
+
+p {
+    color:rgb(0, 78, 114);font-family: Oswald;
+}
+
+a {
+    font-size: 24px;color: rgb(0, 78, 114);font-family: Oswald
+}

@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=League+Spartan:wght@100..900&family=Manrope:wght@200..800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: hsl(204, 43%, 93%);
+    font-family: Karla;
+}
+
+#class {
+    display: flex;
+    border: none solid 1px;
+    border-radius: 10px;
+}
+
+#student1 {
+    border: 1px solid white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 40px;
+    padding-right: 100px;
+    background-color: white;
+}
+
+#s1 {
+    display: flex;
+    color: hsl(179, 62%, 43%);
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
+#s2 {
+    display: flex;
+    color: hsl(71, 73%, 54%);
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+#s3 {
+    color: hsl(218, 22%, 67%);
+}
+
+#student2 {
+    background-color: hsl(179, 62%, 43%);
+    color: white;
+    padding: 52px;
+    border: 1px solid none;
+    border-bottom-left-radius: 20px;
+}
+
+#s4 {
+    padding-bottom: 30px;
+}
+
+#class1 {
+    display: flex;
+    flex-direction: row;
+}
+
+#s5 {
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+#s6 {
+    font-weight: lighter;
+    color: hsl(204, 43%, 93%);
+    position: relative;
+    top: 15px;
+}
+
+#s7 {
+    padding-bottom: 20px;
+}
+
+#s8 {
+    background-color: hsl(71, 73%, 54%);
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    border: solid 2px hsl(71, 73%, 54%);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold
+}
+
+#student3 {
+    border: 1px solid none;
+    border-bottom-right-radius: 20px;
+    background-color: hsl(179, 56%, 50%);
+    padding: 50px;
+    padding-right: 100px;
+    color: white;
+}
+
+#s9 {
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
+#s10 {
+    font-weight: lighter;
+    padding: 5px;
+}
+
+#class0 {
+    display: flex;
+    flex-direction: row;
+}
+
+#class {
+    display: flex;
+    flex-direction: column;
+}

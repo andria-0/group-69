@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Big+Shoulders:opsz,wght@10..72,100..900&family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=League+Spartan:wght@100..900&family=Lexend+Deca:wght@100..900&family=Manrope:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Poppins;
+}
+
+#st1 {
+    color: hsl(234, 12%, 34%);
+    text-align: center;
+    position: relative;
+    bottom: 230px;
+}
+
+#st11 {
+    font-weight: 200;
+}
+
+#st2 {
+    border: solid none 1px;
+    border-top: 7px solid hsl(180, 62%, 55%);
+    padding: 35px;
+    width: 370px;
+    height: 220px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px hsl(213, 8%, 74%);
+    position: relative;
+    right: 430px;
+}
+
+#st21 {
+    color: hsl(234, 12%, 34%);
+    font-size: 23px;
+}
+
+#st22 {
+    color: hsl(212, 6%, 44%);
+    font-weight: 400;
+}
+
+#img2 {
+    position: relative;
+    left: 300px;
+    top: 60px;
+}
+
+#st3 {
+    border: solid none 1px;
+    border-top: 7px solid hsl(0, 78%, 62%);
+    padding: 35px;
+    width: 370px;
+    height: 220px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px hsl(213, 8%, 74%);
+    position: relative;
+    bottom: 450px;
+    left: 50px;
+}
+
+#st31 {
+    color: hsl(234, 12%, 34%);
+    font-size: 23px;
+}
+
+#st32 {
+    color: hsl(212, 6%, 44%);
+    font-weight: 400;
+}
+
+#img3 {
+    position: relative;
+    left: 300px;
+    top: 60px;
+}
+
+#st4 {
+    border: solid none 1px;
+    border-top: 7px solid hsl(0, 78%, 62%);
+    padding: 35px;
+    width: 370px;
+    height: 220px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px hsl(213, 8%, 74%);
+    position: relative;
+    
+}
+
+#st41 {
+    color: hsl(234, 12%, 34%);
+    font-size: 23px;
+}
+
+#st42 {
+    color: hsl(212, 6%, 44%);
+    font-weight: 400;
+}
+
+#img4 {
+    position: relative;
+    left: 300px;
+    top: 60px;
+}
